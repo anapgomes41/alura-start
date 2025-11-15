@@ -30,7 +30,7 @@ Criar e aplicar animações com CSS, incluindo transições e keyframes
 
 🛠️ Ver projeto:
 
-Acesse: 
+Acesse: https://anapgomes41.github.io/alura-start/ 
 
 🎨 Figma do projeto
 
